@@ -7,7 +7,7 @@ This repository contains example code from the [C# Professional Course](https://
 - **Module 3**: Advanced C#
 - **Module 4**: Concurrency and Design Patterns
 - **Module 5**: Processes and Techniques
-- **Module 6**: Capstone Project
+- **Module 6**: Team Project
 
 Each module provides practical code examples used in the course's online sessions.
 
