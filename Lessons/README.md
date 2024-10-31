@@ -1,0 +1,1 @@
+Каталог с занятиями по курсу `C# Developer Professional` от `Отус`
